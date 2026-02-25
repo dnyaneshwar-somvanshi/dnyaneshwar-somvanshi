@@ -1,17 +1,23 @@
-<h1 align="center">👋 Hi, I'm Dnyaneshwar Somvanshi</h1>
-
-<h3 align="center">🚀 Cloud & DevOps Engineer | Cloud & Automation Enthusiast</h3>
-<h4 align="center">🎓 Computer Science Engineering Graduate | Dayananda Sagar University, Bengaluru (2025)</h4>
-<h4 align="center">📍 Bengaluru, India</h4>
-
-<hr>
-
-<h2>🧑‍💻 About Me</h2>
+<h1>👋 Hi, I'm Dnyaneshwar Somvanshi</h1>
 
 <p>
-I'm a passionate Cloud & DevOps Engineer with hands-on experience in cloud infrastructure, CI/CD automation, Linux administration, and containerization. 
-I enjoy building scalable, reliable, and automated systems using modern DevOps tools and cloud platforms.
+🎓 I'm a motivated <strong>Computer Science Engineering graduate (2025)</strong> from 
+<strong>Dayananda Sagar University, Bengaluru</strong>, specializing in 
+<strong>Cloud Computing and DevOps Engineering</strong>. With strong hands-on experience in 
+<strong>AWS cloud infrastructure, CI/CD automation, Linux systems, and containerization</strong>, 
+I am passionate about building <strong>scalable, secure, and highly available systems</strong>.
 </p>
+
+<h2>💡 About Me</h2>
+
+<ul>
+  <li>☁️ Enthusiastic about <strong>Cloud Architecture, DevOps automation, and Infrastructure as Code</strong></li>
+  <li>⚙️ Hands-on experience in <strong>CI/CD pipeline development using Git, Jenkins, and Ansible</strong></li>
+  <li>🐳 Skilled in <strong>Docker containerization and Kubernetes orchestration</strong></li>
+  <li>🖥️ Strong background in <strong>Linux system administration and AWS cloud services</strong></li>
+  <li>🔐 Knowledge of <strong>cloud security, monitoring, and high availability design</strong></li>
+  <li>🤝 Passionate team player, eager to <strong>collaborate, automate, and optimize deployment workflows</strong></li>
+</ul>
 
 <hr>
 
