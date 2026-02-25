@@ -1,51 +1,62 @@
-#👋 Hi, I'm Dnyaneshwar Somvanshi
+<h1 align="center">👋 Hi, I'm Dnyaneshwar Somvanshi</h1>
 
-🚀 Cloud & DevOps Engineer | Cloud & Automation Enthusiast
-🎓 Computer Science Engineering Graduate | Dayananda Sagar University, Bengaluru (2025)
-📍 Bengaluru, India
+<h3 align="center">🚀 Cloud & DevOps Engineer | Cloud & Automation Enthusiast</h3>
+<h4 align="center">🎓 Computer Science Engineering Graduate | Dayananda Sagar University, Bengaluru (2025)</h4>
+<h4 align="center">📍 Bengaluru, India</h4>
 
-#🧑‍💻 About Me
+<hr>
 
-I'm a passionate Cloud & DevOps Engineer with hands-on experience in cloud infrastructure, CI/CD automation, Linux administration, and containerization. I enjoy building scalable, reliable, and automated systems using modern DevOps tools and cloud platforms.
+<h2>🧑‍💻 About Me</h2>
 
-#🛠️ Skills
+<p>
+I'm a passionate Cloud & DevOps Engineer with hands-on experience in cloud infrastructure, CI/CD automation, Linux administration, and containerization. 
+I enjoy building scalable, reliable, and automated systems using modern DevOps tools and cloud platforms.
+</p>
 
-☁️ Cloud Computing:
-AWS
-Azure (Basics)
+<hr>
 
-🔧 DevOps & Automation:
-Git, GitHub
-Jenkins
-Ansible
-Docker
-Kubernetes
+<h2>🛠️ Skills</h2>
 
-🖥️ Operating Systems:
-Linux (Amazon Linux, Red Hat)
-Windows
+<h3>☁️ Cloud Computing</h3>
+<ul>
+  <li>AWS</li>
+  <li>Azure (Basics)</li>
+</ul>
 
-#🎓 Education
+<h3>🔧 DevOps & Automation</h3>
+<ul>
+  <li>Git & GitHub</li>
+  <li>Jenkins</li>
+  <li>Ansible</li>
+  <li>Docker</li>
+  <li>Kubernetes</li>
+</ul>
 
-🎓 Bachelor of Technology – Computer Science Engineering
+<h3>🖥️ Operating Systems</h3>
+<ul>
+  <li>Linux (Amazon Linux, Red Hat)</li>
+  <li>Windows</li>
+</ul>
+
+<hr>
+
+<h2>🎓 Education</h2>
+
+<p>
+<strong>Bachelor of Technology – Computer Science Engineering</strong><br>
 Dayananda Sagar University, Bengaluru (2021 – 2025)
+</p>
 
+<hr>
 
-#📫 Connect Me
-📧 Email: dnyaneshwarsomvanshi123@gmail.com
+<h2>📫 Connect With Me</h2>
 
-🌟 Thank you for visiting my profile! I'm always open to connecting, learning, and exploring opportunities in Cloud and Devops.
-<!--
-**dnyaneshwar-somvanshi/dnyaneshwar-somvanshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+📧 Email: <strong>dnyaneshwarsomvanshi123@gmail.com</strong>
+</p>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+🌟 Thank you for visiting my profile! I'm always open to connecting, learning, and exploring opportunities in Cloud and DevOps.
+</p>
